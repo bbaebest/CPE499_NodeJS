@@ -1,0 +1,15 @@
+{
+  "name": "project499",
+  "version": "1.0.0",
+  "description": "nodejs for cpe499 project1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "supisara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
